@@ -1,4 +1,4 @@
-# Ruby Project: Basic Calculator #
+# Project: Basic Calculator #
 
 Sample code calculator for basic operators. 
 
